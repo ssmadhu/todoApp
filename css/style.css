@@ -1,0 +1,15 @@
+.todo-section  {
+    height: 120px;
+    width: 360px;
+    border: 2px solid red;
+    padding-top: 12px;
+}
+.todo-section {
+    position: relative;
+}
+
+.clearAll {
+    position: absolute;
+    right:0;
+    bottom: 12px;
+}
